@@ -1,0 +1,17 @@
+Website Name : TextUtils.com 
+
+
+Let's revised what we learn in this lesson
+
+1. creat a folder
+2. open with vs code
+3. copy that folder path and cd in vs code terminal or windows powershell (prefer windows powershell)
+4. run the 'django-admin startproject textutils'  command in desire  terminal.
+5. run the 'python manage.py runserver' command in the desire terminal
+6. The basic structure of our websit is created 
+7. creat Templates Folder
+8. Adding bootstrap 
+9. update setting.py file 
+10. also we creat the views.py file and  and write the path in urls.py file 
+11. In the Templates Folder we creat  'analyze.html' And 'Index.html'
+
